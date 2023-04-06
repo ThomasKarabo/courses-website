@@ -15,7 +15,7 @@ COURSES = [{
 }, {
   'course': 'Mathematics 3',
   'Qualification': 'BSc in Mathematical Sciences',
-  'Fees': 'R 5,000',
+  'Fees': 'R 6,500',
   'Prerequisite': 'Mathematics 2'
 }, {
   'course': 'Biology 3',
