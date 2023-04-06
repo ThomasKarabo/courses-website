@@ -7,7 +7,7 @@ COURSES = [{
   'Qualification': 'BSc in Physical Sciences',
   'Fees': 'R 14,000',
   'Prerequisite': 'Physics 2 and Mathematics 2',
-  'Hyperlink': 'Physlink'
+  'Hyperlink': 'https://physics-website.karabomohlapo.repl.co'
 }, {
   'course': 'Computer Science 3',
   'Qualification': 'BSc in Information Technology',
